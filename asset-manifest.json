@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gh-pages-react-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/gh-pages-react-app/static/js/main.1c37a3dc.chunk.js",
+    "main.js.map": "/gh-pages-react-app/static/js/main.1c37a3dc.chunk.js.map",
+    "runtime-main.js": "/gh-pages-react-app/static/js/runtime-main.11ae214f.js",
+    "runtime-main.js.map": "/gh-pages-react-app/static/js/runtime-main.11ae214f.js.map",
+    "static/js/2.e1806175.chunk.js": "/gh-pages-react-app/static/js/2.e1806175.chunk.js",
+    "static/js/2.e1806175.chunk.js.map": "/gh-pages-react-app/static/js/2.e1806175.chunk.js.map",
+    "index.html": "/gh-pages-react-app/index.html",
+    "precache-manifest.d73432e91074348d781490d4c4e6ee7a.js": "/gh-pages-react-app/precache-manifest.d73432e91074348d781490d4c4e6ee7a.js",
+    "service-worker.js": "/gh-pages-react-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/gh-pages-react-app/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/gh-pages-react-app/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11ae214f.js",
+    "static/js/2.e1806175.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.1c37a3dc.chunk.js"
+  ]
+}
